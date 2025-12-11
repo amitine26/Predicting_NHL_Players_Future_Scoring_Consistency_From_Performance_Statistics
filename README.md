@@ -4,4 +4,18 @@ Project Title: Predicting NHL Players’ Future Scoring Consistency From Perform
 
 Project Description:
 
-	For my project, Predicting NHL Players’ Future Scoring Consistency From Performance Statistics, I plan to develop a machine learning algorithm that predicts a player’s future offensive output, mainly the points they score in a 60 minute game, based on their underlying performance metrics. These performance metrics can include goals, assists, time-on-ice (TOI), Corsi, expected goals, hits, blocks, and special teams contributions. Understanding that traditional positions like (center, winger, defense) do not fully capture the specific roles of the player, I will aggregate a dataset combining previous performance metrics mentioned above, and I plan on finding this data from sources such as MoneyPuck. I will perform a comparative analysis by training two distinct Random Forest models using historical data (2010 - 2023 seasons): one that incorporates K-Means clustering archetypes as features and one that does not. I will validate these models against the true data from the 2024 - 2025 season to determine if unsupervised grouping reduces prediction error and better distinguishes sustainable skill from statistical luck. Finally, using the better performing model trained on all available data, I will forecast player performance for the current 2025 - 2026 season, providing projected point totals for both a 30-game span (approximately the current number of games played so far) and a full 82-game season.
+For my project, Predicting NHL Players’ Future Scoring Consistency From Performance Statistics, 
+I plan to develop a machine learning algorithm that predicts a player’s future offensive output, 
+mainly the points they score in a 60 minute game, based on their underlying performance metrics. 
+These performance metrics can include goals, assists, time-on-ice (TOI), Corsi, expected goals, 
+hits, blocks, and special teams contributions. Understanding that traditional positions like 
+(center, winger, defense) do not fully capture the specific roles of the player, I will aggregate 
+a dataset combining previous performance metrics mentioned above, and I plan on finding this data 
+from sources such as MoneyPuck. I will perform a comparative analysis by training two distinct Random 
+Forest models using historical data (2010 - 2023 seasons): one that incorporates K-Means clustering 
+archetypes as features and one that does not. I will validate these models against the true data from 
+the 2024 - 2025 season to determine if unsupervised grouping reduces prediction error and better 
+distinguishes sustainable skill from statistical luck. Finally, using the better performing model 
+trained on all available data, I will forecast player performance for the current 2025 - 2026 season, 
+providing projected point totals for both a 30-game span (approximately the current number of games 
+played so far) and a full 82-game season.
