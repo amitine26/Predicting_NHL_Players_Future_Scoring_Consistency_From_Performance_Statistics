@@ -19,3 +19,5 @@ distinguishes sustainable skill from statistical luck. Finally, using the better
 trained on all available data, I will forecast player performance for the current 2025 - 2026 season, 
 providing projected point totals for both a 30-game span (approximately the current number of games 
 played so far) and a full 82-game season.
+
+To see the project, slides, and video, go to the file: Anthony_Mitine_Predicting_NHL_Players_Future_Scoring_Consistency_From_Performance_Statistics.ipynb
