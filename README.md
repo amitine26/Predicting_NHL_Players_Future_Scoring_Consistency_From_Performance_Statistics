@@ -1,8 +1,8 @@
+# Predicting NHL Players’ Future Scoring Consistency From Performance Statistics
+
 Author: Anthony Mitine
 
 Team Name: Drop the Mitts
-
-Project Title: Predicting NHL Players’ Future Scoring Consistency From Performance Statistics
 
 Project Description:
 
