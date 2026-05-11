@@ -23,6 +23,6 @@ for both a 30-game span (approximately the current number of games played so far
 
 Link to Project File: https://github.com/amitine26/Predicting_NHL_Players_Future_Scoring_Consistency_From_Performance_Statistics/blob/main/Anthony_Mitine_Predicting_NHL_Players_Future_Scoring_Consistency_From_Performance_Statistics.ipynb
 
-Link to Presentation: https://docs.google.com/presentation/d/1oiNJJV0P1-MUvAAKngwO8wRMM_j1hxMUhJyjfMScZQI/edit?usp=sharing
+Link to Presentation: https://github.com/amitine26/Predicting_NHL_Players_Future_Scoring_Consistency_From_Performance_Statistics/blob/main/Predicting%20NHL%20Players%E2%80%99%20Future%20Scoring%20Consistency%20From%20Performance%20Statistics.pdf
 
 Link to Video: https://drive.google.com/file/d/1DeGUEP6_3OQQvnirYF59IA_Z6KrIEUiO/view?usp=sharing
